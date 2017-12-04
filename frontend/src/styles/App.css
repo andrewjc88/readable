@@ -16,9 +16,19 @@
   font-family: 'Limelight', cursive;
 }
 
+.PostTitle {
+  background-color: rgb(59, 150, 92);
+  
+}
+
 .Post {
   background-color: white;
   width: 80%;
-  max-width: 600px;
+  max-width: 40em;
   margin: auto;
+  padding: 2em;
+}
+
+.categorySelector {
+
 }

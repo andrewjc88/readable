@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import '../styles/App.css';
 import CategorySelector from './CategorySelector';
 import Post from './Post'
+import AddEditPost from './AddEditPost'
 import Comments from './Comments';
 // import * as PostsAPI from './utils/postsAPI';
 import Loading from 'react-loading';

@@ -12,7 +12,7 @@ const headers = {
   'Authorization': token
 }
 
-// All necessary api commands
+// All possible api commands
 // get,
 // getByParent,
 // add,
